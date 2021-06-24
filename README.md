@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 <br/>
-<br/>
 
 ### 🔨 Languages and Tools
 <a href="https://www.cprogramming.com/" target="_blank"> 
