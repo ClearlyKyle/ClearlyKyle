@@ -29,3 +29,5 @@
 ### 📊 Github Stats
 ![Stats Overview](https://raw.githubusercontent.com/ClearlyKyle/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/ClearlyKyle/github-stats-transparent/output/generated/languages.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=celarlykyle&hide_border=true)](https://git.io/streak-stats)
