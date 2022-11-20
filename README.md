@@ -4,10 +4,9 @@
     <img align='right' alt="linkedin" height='20px' src="https://raw.githubusercontent.com/ClearlyKyle/ClearlyKyle/894c8b74518ed6493cb4ef782c820293326ea185/assets/linkedin.svg" />
 </a>
 
-
-<table style="background-color:rgba(0, 0, 0, 0); border-style: hidden;">
-<tr style="padding-bottom: -10px; border: none!important;">
-<td style="border: none!important;">
+<table style="background-color:rgba(0, 0, 0, 0); border: 0px;">
+<tr style="padding-bottom: -10px;">
+<td>
 
 ### 🔨 Languages and Tools
 <a href="https://www.cprogramming.com/" target="_blank"> 
