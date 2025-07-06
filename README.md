@@ -35,6 +35,7 @@
 </a>
     
 ###  📊 Github Stats
+[//]: # (EXCLUDED_LANGS : Shell,OpenSCAD,HLSL,Batchfile,Makefile,CSS,Lua,CMake,GLSL,Meson,PowerShell)
 ![Stats Overview](https://raw.githubusercontent.com/ClearlyKyle/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/ClearlyKyle/github-stats-transparent/output/generated/languages.svg)
 
